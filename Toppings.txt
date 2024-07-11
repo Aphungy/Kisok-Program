@@ -1,0 +1,10 @@
+Cheese, 0.99
+Ham, 0.99
+Gherkins, 0.99
+Onions, 0.99
+Mustard, 0.20
+Ketchup, 0.20
+Chilli, 0.99
+Cucumber, 0.99
+No Toppings, 0.00
+
